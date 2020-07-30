@@ -8,4 +8,10 @@
 - 📫 How to reach me: [vijaycreations](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ), [Twitter](https://twitter.com/vijaycreations)
 - 😄 Pronouns: He/Him
 
-<image src="https://github-readme-stats.vercel.app/api?username=vijayinyoutube&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+
+### Contact me:
+
+<image src="https://user-images.githubusercontent.com/58719230/88882587-ebe31a80-d24f-11ea-9201-65da564416c0.png" width="22">
+
+
+<image src="https://github-readme-stats.vercel.app/api?username=vijayinyoutube&&show_icons=true" >

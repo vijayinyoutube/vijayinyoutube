@@ -8,6 +8,9 @@
 - 📫 How to reach me: [vijaycreations](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ), [Twitter](https://twitter.com/vijaycreations)
 - 😄 Pronouns: He/Him
 
+### PlayStore Apps
+
+[<image src="https://user-images.githubusercontent.com/58719230/90048962-d3fca380-dcf1-11ea-8e69-0954286018ae.png" width="250" height="100">](https://play.google.com/store/apps/details?id=devotional.songs)
 
 ### Available on:
 

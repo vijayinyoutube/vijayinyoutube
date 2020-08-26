@@ -12,7 +12,7 @@
 
 [<image src="https://user-images.githubusercontent.com/58719230/90048962-d3fca380-dcf1-11ea-8e69-0954286018ae.png" width="250" height="100">](https://play.google.com/store/apps/details?id=devotional.songs)
 
-### Available on:
+### Available in:
 
 [<image src="https://user-images.githubusercontent.com/58719230/88883710-a116d200-d252-11ea-88be-772eff304c57.png" width="25" height="25">](https://www.linkedin.com/in/vijay-creations-b60a391a6/)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/88883867-f521b680-d252-11ea-8083-55abf44ef316.png" width="25" height="25">](https://in.pinterest.com/vijaycreations02/boards/)
   

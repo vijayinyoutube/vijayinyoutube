@@ -10,7 +10,9 @@
 
 ### Published Apps:
 
-[<image src="https://user-images.githubusercontent.com/58719230/90048962-d3fca380-dcf1-11ea-8e69-0954286018ae.png" width="175" height="75">](https://play.google.com/store/apps/developer?id=Vijay+Ravichandran)
+[<image align="left" src="https://user-images.githubusercontent.com/58719230/103482362-7aaf2100-4e06-11eb-8d0c-eb147e9c2e2b.png" width="225" height="200">](https://play.google.com/store/apps/developer?id=Vijay+Ravichandran)
+  
+  
   
 [<image src="https://user-images.githubusercontent.com/58719230/91928210-1285ec80-ecf9-11ea-98ba-ab67c1287ffc.png" width="35" height="35">](https://play.google.com/store/apps/details?id=devotional.songs)
 

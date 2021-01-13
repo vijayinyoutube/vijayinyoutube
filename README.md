@@ -12,7 +12,7 @@
 
 [<image src="https://user-images.githubusercontent.com/58719230/103483391-fb711b80-4e0c-11eb-9c4b-b32daf0b3ae8.png" width="225" height="100">](https://play.google.com/store/apps/developer?id=Vijay+Ravichandran)
   
-[<image src="https://user-images.githubusercontent.com/58719230/91928210-1285ec80-ecf9-11ea-98ba-ab67c1287ffc.png" width="35" height="35">](https://play.google.com/store/apps/details?id=devotional.songs)
+[<image src="https://user-images.githubusercontent.com/58719230/91928210-1285ec80-ecf9-11ea-98ba-ab67c1287ffc.png" width="35" height="35">](https://play.google.com/store/apps/details?id=devotional.songs) [<image src="https://user-images.githubusercontent.com/58719230/104477998-c7091680-55e7-11eb-96fd-51754f6c84e0.png" width="35" height="35">](https://play.google.com/store/apps/details?id=expense.emi)
 
 
   

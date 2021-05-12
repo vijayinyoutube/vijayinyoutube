@@ -18,7 +18,7 @@
 
   
 
-### Available on:
+### Available in:
 
 [<image src="https://user-images.githubusercontent.com/58719230/103482792-e2666b80-4e08-11eb-8552-d8971254934c.png" width="25" height="25">](https://www.linkedin.com/in/vijay-creations-b60a391a6/)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/117926756-e5252000-b316-11eb-8f54-5160aef752aa.jpg" width="25" height="25">](https://discord.gg/jNRFhXm3)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/103482826-0629b180-4e09-11eb-8870-27a73c819452.png" width="25" height="25">](https://in.pinterest.com/vijaycreations02/boards/)
   

@@ -19,9 +19,14 @@
   
 
 ### Available in:
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-creations-b60a391a6/) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jNRFhXm3)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://in.pinterest.com/vijaycreations02/boards/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/vijay-r)
 
-[<image src="https://user-images.githubusercontent.com/58719230/103482792-e2666b80-4e08-11eb-8552-d8971254934c.png" width="25" height="25">](https://www.linkedin.com/in/vijay-creations-b60a391a6/)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/117926756-e5252000-b316-11eb-8f54-5160aef752aa.jpg" width="25" height="25">](https://discord.gg/jNRFhXm3)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/117928272-f0794b00-b318-11eb-8d15-596f1411b908.png" width="30" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/103482826-0629b180-4e09-11eb-8870-27a73c819452.png" width="25" height="25">](https://in.pinterest.com/vijaycreations02/boards/)
-  
+
+
 
 ### Languages and Tools:
 

@@ -57,7 +57,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vijayinyoutube&&show_icons=true" width="50%">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayinyoutube&layout=compact" width="42%">
 
 
-### Featured
+### Featured Work
 
  
 [<img src="https://user-images.githubusercontent.com/58719230/124314090-7bdfc180-db8f-11eb-83eb-126c83aec7c9.gif" width="425" height="250">](https://play.google.com/store/apps/details?id=expense.emi)  [<img src="https://user-images.githubusercontent.com/58719230/124318032-ad5b8b80-db95-11eb-8d43-2943470b5f64.gif" width="425" height="250">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)

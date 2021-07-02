@@ -57,7 +57,11 @@
 
 
 
-
+<p align="center">
+ 
+[<img src="https://user-images.githubusercontent.com/58719230/124314090-7bdfc180-db8f-11eb-83eb-126c83aec7c9.gif" width="100%">](https://play.google.com/store/apps/details?id=expense.emi)
+ 
+</p>
  
 
 

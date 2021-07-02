@@ -31,7 +31,7 @@
 - 😄 Pronouns: He/Him
 
 ### Published Apps: 
-[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&color=green)](https://play.google.com/store/apps/developer?id=Vijay+Ravichandran)
+
 
 [<image src="https://user-images.githubusercontent.com/58719230/103483391-fb711b80-4e0c-11eb-9c4b-b32daf0b3ae8.png" width="225" height="100">](https://play.google.com/store/apps/developer?id=Vijay+Ravichandran)
   
@@ -39,7 +39,7 @@
 
 
 
-  
+[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&color=green)](https://play.google.com/store/apps/developer?id=Vijay+Ravichandran)
 
 
 

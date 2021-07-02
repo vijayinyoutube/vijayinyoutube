@@ -61,8 +61,6 @@
 
  
 [<img src="https://user-images.githubusercontent.com/58719230/124314090-7bdfc180-db8f-11eb-83eb-126c83aec7c9.gif" width="425" height="250">](https://play.google.com/store/apps/details?id=expense.emi)  [<img src="https://user-images.githubusercontent.com/58719230/124318032-ad5b8b80-db95-11eb-8d43-2943470b5f64.gif" width="425" height="250">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
- 
-
 [<img src="https://user-images.githubusercontent.com/58719230/124318788-d2043300-db96-11eb-8614-36ee39ab8995.gif" width="425" height="250">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)  [<img src="https://user-images.githubusercontent.com/58719230/124318831-e21c1280-db96-11eb-993c-06a757788946.gif" width="425" height="250">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
 
 

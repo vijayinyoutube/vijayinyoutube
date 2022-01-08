@@ -21,7 +21,7 @@
 
 
 ### Hi there., I'm Vijay👋
-[![Profile](https://gpvc.arturio.dev/vijayinyoutube)](https://github.com/vijayinyoutube)
+<!-- [![Profile](https://gpvc.arturio.dev/vijayinyoutube)](https://github.com/vijayinyoutube) -->
 
 
 - 🔭 I’m currently working on Flutter

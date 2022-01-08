@@ -54,7 +54,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijayinyoutube&&show_icons=true" width="50%">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayinyoutube&layout=compact" width="42%">
+<img src="https://github-readme-stats.vercel.app/api?username=vijayinyoutube&&show_icons=true" width="50%">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayinyoutube&layout=compact" width="42%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayinyoutube" width="92%"> 
 
 
 ### Featured Work
@@ -66,5 +66,5 @@
 
 
 
-
+<img src="https://activity-graph.herokuapp.com/graph?username=vijayinyoutube&theme=minimal" width="100%">
 

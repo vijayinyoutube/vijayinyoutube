@@ -63,5 +63,5 @@
 
 
 
-[<img src="https://activity-graph.herokuapp.com/graph?username=vijayinyoutube&theme=minimal" width="100%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
+
 

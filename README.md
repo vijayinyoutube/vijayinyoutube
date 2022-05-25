@@ -30,6 +30,14 @@
 - 📫 How to reach me: [vijaycreations](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ), [Twitter](https://twitter.com/vijaycreations)
 - 😄 Pronouns: He/Him
 
+
+### Published Packages
+
+Package Name |  Version | Description
+--- | --- | --- |
+[coloredcontainer](https://pub.dev/packages/coloredcontainer) | [![Pub](https://img.shields.io/badge/pub-v0.0.2-blue.svg)](https://pub.dev/packages/coloredcontainer) | ```This package wraps any flutter widget inside the container with specified colors.```
+
+
 ### Published Apps: 
 
 

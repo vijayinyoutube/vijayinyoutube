@@ -36,7 +36,7 @@
 Package Name |  Version | Description
 --- | --- | --- |
 [coloredcontainer](https://pub.dev/packages/coloredcontainer) | [![Pub](https://img.shields.io/badge/pub-v0.0.2-blue.svg)](https://pub.dev/packages/coloredcontainer) | ```This package wraps any flutter widget inside the container with specified colors.```
-[scroll_to_top](https://pub.dev/packages/scroll_to_top) | [![Pub](https://img.shields.io/badge/pub-v0.0.2-blue.svg)](https://pub.dev/packages/scroll_to_top) | ```This package will help us reach the top of the page based on scroll offsets.```
+[scroll_to_top](https://pub.dev/packages/scroll_to_top) | [![Pub](https://img.shields.io/badge/pub-v0.0.3-blue.svg)](https://pub.dev/packages/scroll_to_top) | ```This package will help us reach the top of the page based on scroll offsets.```
 
 
 ### Published Apps: 

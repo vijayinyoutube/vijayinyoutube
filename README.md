@@ -60,7 +60,7 @@ Package Name |  Version | Description
 
 ### Support
 
-[![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](                    buymeacoffee.com/vijaycreations                )
+[![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vijaycreations)
 
 
 [<img src="https://github-readme-stats.vercel.app/api?username=vijayinyoutube&&show_icons=true" width="50%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayinyoutube&layout=compact" width="42%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayinyoutube" width="92.5%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) 

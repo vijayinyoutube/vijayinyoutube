@@ -1,6 +1,6 @@
 <p align="center">
  
-[<img src="https://user-images.githubusercontent.com/58719230/193035614-c8afa14d-da42-4dab-85ac-dae4acf64873.png" width="100%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
+[<img src="https://user-images.githubusercontent.com/58719230/207260837-76cc30a8-39f0-4178-ab55-0cc7fd9157d6.png" width="100%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
  
 </p>
 

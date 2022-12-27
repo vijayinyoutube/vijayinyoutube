@@ -64,7 +64,7 @@ Package Name |  Version | Description
 
 ### Support Us
 
-[![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vijaycreations) [![sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/vijayinyoutube)
+[![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vijaycreations) [![sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/vijayinyoutube) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/iamVijayRavichandran)
 
 
 [<img src="https://github-readme-stats.vercel.app/api?username=vijayinyoutube&&show_icons=true" width="50%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayinyoutube&layout=compact" width="42%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayinyoutube" width="92.5%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) 

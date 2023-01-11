@@ -26,6 +26,7 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning React
+- ✨ I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
 - 💬 Ask me about Flutter & Dart,
 - 📫 How to reach me: [vijaycreations](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ), [Twitter](https://twitter.com/vijaycreations)
 - 😄 Pronouns: He/Him

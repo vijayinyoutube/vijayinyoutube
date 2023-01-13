@@ -18,10 +18,11 @@
 
 
 
-
+-----
 
 ### 💫 Hi there., I'm Vijay👋
-<!-- [![Profile](https://gpvc.arturio.dev/vijayinyoutube)](https://github.com/vijayinyoutube) -->
+
+[![Profile](https://gpvc.arturio.dev/vijayinyoutube)](https://github.com/vijayinyoutube)
 
 
 - 🔭 I’m currently working on Flutter
@@ -31,16 +32,19 @@
 - 📫 How to reach me: [vijaycreations](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ), [Twitter](https://twitter.com/vijaycreations)
 - 😄 Pronouns: He/Him
 
+-----
 
 ### 📦 Published Packages
+
 
 Package Name |  Version | Description
 --- | --- | --- |
 [coloredcontainer](https://pub.dev/packages/coloredcontainer) | [![Pub](https://img.shields.io/badge/pub-v0.0.2-blue.svg)](https://pub.dev/packages/coloredcontainer) | ```This package wraps any flutter widget inside the container with specified colors.```
 [scroll_to_top](https://pub.dev/packages/scroll_to_top) | [![Pub](https://img.shields.io/badge/pub-v0.0.5-blue.svg)](https://pub.dev/packages/scroll_to_top) | ```This package will help us reach the top of the page based on scroll offsets.```
 
+-----
 
-###  Published Apps: 
+### 📱 Published Apps: 
 
 
 [<image src="https://user-images.githubusercontent.com/58719230/103483391-fb711b80-4e0c-11eb-9c4b-b32daf0b3ae8.png" width="225" height="100">](https://play.google.com/store/apps/developer?id=Vijay+Ravichandran)
@@ -52,7 +56,7 @@ Package Name |  Version | Description
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&color=green)](https://play.google.com/store/apps/developer?id=Vijay+Ravichandran)
 
 
-
+-----
 
 ### 🧑‍💻 Languages and Tools:
 
@@ -62,16 +66,18 @@ Package Name |  Version | Description
 
 <a href="https://stardev.io/developers/vijayinyoutube"><img alt="Check out vijayinyoutube's profile on stardev.io" src="https://stardev.io/developers/vijayinyoutube/badge/languages/global.svg" /></a>
 
-
+-----
+ 
 ### 💰 Support by donating or sponsoring us.,
 
+ 
 [![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vijaycreations) [![sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/vijayinyoutube) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/iamVijayRavichandran)
 
 
 [<img src="https://github-readme-stats.vercel.app/api?username=vijayinyoutube&&show_icons=true" width="50%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayinyoutube&layout=compact" width="42%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayinyoutube" width="92.5%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) 
 
 
-
+-----
 
 ### ✨ Featured Work
 

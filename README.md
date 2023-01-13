@@ -20,7 +20,7 @@
 
 
 
-### Hi there., I'm Vijay👋
+### 💫 Hi there., I'm Vijay👋
 <!-- [![Profile](https://gpvc.arturio.dev/vijayinyoutube)](https://github.com/vijayinyoutube) -->
 
 
@@ -32,7 +32,7 @@
 - 😄 Pronouns: He/Him
 
 
-### Published Packages
+### 📦 Published Packages
 
 Package Name |  Version | Description
 --- | --- | --- |
@@ -40,7 +40,7 @@ Package Name |  Version | Description
 [scroll_to_top](https://pub.dev/packages/scroll_to_top) | [![Pub](https://img.shields.io/badge/pub-v0.0.5-blue.svg)](https://pub.dev/packages/scroll_to_top) | ```This package will help us reach the top of the page based on scroll offsets.```
 
 
-### Published Apps: 
+###  Published Apps: 
 
 
 [<image src="https://user-images.githubusercontent.com/58719230/103483391-fb711b80-4e0c-11eb-9c4b-b32daf0b3ae8.png" width="225" height="100">](https://play.google.com/store/apps/developer?id=Vijay+Ravichandran)
@@ -54,7 +54,7 @@ Package Name |  Version | Description
 
 
 
-### Languages and Tools:
+### 🧑‍💻 Languages and Tools:
 
 [<image src="https://user-images.githubusercontent.com/58719230/103482573-96ff8d80-4e07-11eb-8248-199e410e8165.png" width="25" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/103482597-bac2d380-4e07-11eb-97be-88061e269fa6.png" width="25" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/103482745-8f8cb400-4e08-11eb-9c64-4f3abd1899a3.png" width="25" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/88885109-8560fb00-d255-11ea-96ca-af58d8020770.png" width="25" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/88885585-69118e00-d256-11ea-8444-be984e5a4008.png" width="25" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/103483265-05464f00-4e0c-11eb-9f50-8975f8a7cbd8.png" width="25" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/103482996-37ef4800-4e0a-11eb-85e9-72e55ad93833.png" width="25" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/103483020-666d2300-4e0a-11eb-9539-08ea993bc2d2.png" width="25" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/103483218-bd272c80-4e0b-11eb-8539-3be78701f639.png" width="25" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/103483074-c1067f00-4e0a-11eb-8e77-cce8fa13b039.png" width="25" height="30">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/103483121-383c1300-4e0b-11eb-96a7-58be5af46eaf.png" width="25" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/103483148-599cff00-4e0b-11eb-8ef4-6774c495fca9.png" width="25" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)&nbsp;&nbsp;&nbsp;[<image src="https://user-images.githubusercontent.com/58719230/114066388-50fc0f00-98b9-11eb-805a-326fce950195.png" width="25" height="25">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
 
@@ -63,7 +63,7 @@ Package Name |  Version | Description
 <a href="https://stardev.io/developers/vijayinyoutube"><img alt="Check out vijayinyoutube's profile on stardev.io" src="https://stardev.io/developers/vijayinyoutube/badge/languages/global.svg" /></a>
 
 
-### Support by donating or sponsoring us.,
+### 💰 Support by donating or sponsoring us.,
 
 [![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vijaycreations) [![sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/vijayinyoutube) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/iamVijayRavichandran)
 
@@ -73,7 +73,7 @@ Package Name |  Version | Description
 
 
 
-### Featured Work
+### ✨ Featured Work
 
  
 [<img src="https://user-images.githubusercontent.com/58719230/124314090-7bdfc180-db8f-11eb-83eb-126c83aec7c9.gif" width="400" height="230">](https://play.google.com/store/apps/details?id=expense.emi)  [<img src="https://user-images.githubusercontent.com/58719230/124318032-ad5b8b80-db95-11eb-8d43-2943470b5f64.gif" width="400" height="230">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)

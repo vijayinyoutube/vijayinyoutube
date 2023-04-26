@@ -38,9 +38,8 @@
 
 ### 👷 Hire me
 
-Like to hire me? Drop an email here 👇
+Like to hire me? Drop an email to - calico.takeoff_01@icloud.com
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](calico.takeoff_01@icloud.com)
 
 
 -----

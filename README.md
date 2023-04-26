@@ -32,7 +32,19 @@
 - 📫 How to reach me: [vijaycreations](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ), [Twitter](https://twitter.com/vijaycreations)
 - 😄 Pronouns: He/Him
 
+<!-- ### 👷 Hire me on
+
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~011ee41349a6c24413) -->
+
+### 👷 Hire me
+
+Like to hire me? Drop an email here 👇
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](calico.takeoff_01@icloud.com)
+
+
 -----
+
 
 ### 📦 Published Packages
 

@@ -34,7 +34,7 @@
 
 <!-- ### 👷 Hire me on
 
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~011ee41349a6c24413) -->
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/vijayr2)
 
 ### 👷 Hire me
 

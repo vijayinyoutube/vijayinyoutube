@@ -43,7 +43,7 @@ Like to hire me? Drop an email to - calico.takeoff_01@icloud.com
 
 ### 💬 Contact me
 
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&color=purple)](https://linktr.ee/vijaycreations) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calico.takeoff_01@icloud.com)
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&color=purple)](https://linktr.ee/vijaycreations) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calico.takeoff_01@icloud.com) [![Meet](https://img.shields.io/badge/Schedule%20a%20call-00897B?style=for-the-badge&logo=google-meet&logoColor=white)](https://topmate.io/vijay_r)
 
 
 -----

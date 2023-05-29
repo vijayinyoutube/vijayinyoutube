@@ -15,8 +15,6 @@
 </div>
 
 
-
-
 -----
 
 ### 💫 Hi there., I'm Vijay👋

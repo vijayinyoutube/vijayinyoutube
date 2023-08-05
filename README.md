@@ -19,7 +19,8 @@
 
 ### 💫 Hi there., I'm Vijay👋
 
-[![Profile](https://gpvc.arturio.dev/vijayinyoutube)](https://github.com/vijayinyoutube)
+
+![](https://komarev.com/ghpvc/?username=vijayinyoutube&style=for-the-badge)
 
 
 - 🔭 I’m currently working on Flutter

@@ -32,7 +32,7 @@
 
 
 ---- 
-### 🧑‍🏫 Learn by Sharing
+### 🧑‍🏫  Learn by Sharing
 
 ### I teach here for free!! 👇
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vijaycreationsflutter?sub_confirmation=1)
